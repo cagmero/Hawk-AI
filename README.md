@@ -1,4 +1,4 @@
-# Hawk-AI
+# WinLogin Monitoring
 
 **Hawk-AI** is a Windows-based application designed to monitor user login activities for suspicious behavior. Upon detecting anomalies, it generates detailed reports and sends them via email within 36 hours.
 
